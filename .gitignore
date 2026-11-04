@@ -1,0 +1,11 @@
+# Compiled files
+*.class
+classes/
+
+# Plans written by the planner / VAL
+*.plan
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store

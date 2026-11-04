@@ -1,0 +1,6 @@
+{
+    "java.server.launchMode": "Standard",
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "classes",
+    "java.project.referencedLibraries": ["lib/**/*.jar"]
+}
