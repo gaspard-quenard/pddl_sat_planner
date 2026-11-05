@@ -1,6 +1,7 @@
 # Compiled files
 *.class
-classes/
+classes/*
+!classes/.gitkeep
 
 # Plans written by the planner / VAL
 *.plan
